@@ -30,7 +30,7 @@ div.nick-highlight   {
 }
 
 #newpollbtn {
-            background: #ffffff;
+            background: #ffffff !important;
             color:   #ff00ff;
             border-radius:   0px;
 }
