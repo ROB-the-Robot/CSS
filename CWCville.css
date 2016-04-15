@@ -1,0 +1,59 @@
+@import   url(http://fonts.googleapis.com/css?family=Roboto);
+
+body   {
+background-image:url('https://kiwifar.ms/styles/custom/backgrounds/sonichu_better.jpg');
+font-family:   Comic Sans MS;
+}
+
+#currenttitle   {
+            color:   #ffffff;
+            background-color:   #323a8f;
+            font-weight:   bold;
+            font-family:   Comic Sans MS;
+            text-transform:   uppercase;
+            border-radius: 0px;
+}
+
+div.well.well-small.span12.row-fluid   {
+            background-color:   #323a8f;
+}
+
+button.btn.btn-danger.pull-right   {
+            background-color:   #666666;
+            color:   #000000;
+}
+
+div.nick-highlight   {
+            color:   #ffffff;
+            background-color:   #141a5e;
+            font-weight:   bold;
+}
+
+#newpollbtn {
+            background-color: #ffffff;
+            color:   #ff00ff;
+            border-radius:   0px;
+}
+#emotelistbtn   {
+            background-color: #ffffff;
+            color:   #ff00ff;
+            border-radius:   0px;
+}
+
+
+#chatheader {
+            border-radius: 0px;
+            background-color: #0d0d0d;
+}
+#userlist {
+            background-color: #0d0d0d;
+}
+#messagebuffer {
+            background-color: #0d0d0d;
+}
+
+#chatline {
+            background: #ffffff !important;
+            color: #ff00ff;
+            border-radius: 0px;
+}
